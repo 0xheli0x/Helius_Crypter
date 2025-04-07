@@ -53,8 +53,8 @@ This tool is designed exclusively for academic research, educational purposes, a
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/helius-crypter.git
-   cd helius-crypter
+   git clone https://github.com/0xheli0x/Helius_Crypter.git
+   cd Helius_Crypter
    ```
 
 2. Install dependencies:
@@ -88,7 +88,7 @@ This tool is designed exclusively for academic research, educational purposes, a
 ## 👨‍💻 Author
 
 Telegram: @helius0x  
-Website: [https://helius-crypter.com/](https://helius-crypter.com/)
+Website: [https://helius-crypter.com/](https://helius-crypter.com)
 
 ## 📄 License
 
