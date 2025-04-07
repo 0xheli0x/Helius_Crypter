@@ -19,6 +19,10 @@ This tool is designed exclusively for academic research, educational purposes, a
 - **Antivirus Bypass**: Advanced obfuscation techniques to bypass VirusTotal and other antivirus solutions
 - **Modern UI**: Dark mode interface with neon accents for a cybersecurity feel
 
+
+<img width="1800" alt="Screenshot 2025-04-07 at 13 10 26" src="https://github.com/user-attachments/assets/e56fd201-dc9a-4ed9-9db6-03924091d4d4" />
+
+
 ## 🛠️ Technologies Used
 
 - React 18 (with TypeScript)
