@@ -88,7 +88,7 @@ This tool is designed exclusively for academic research, educational purposes, a
 ## 👨‍💻 Author
 
 Telegram: @helius0x  
-Website: [https://helius-crypter.com/](https://helius-crypter.com)
+Website: [https://helius-crypter.com](https://helius-crypter.com)
 
 ## 📄 License
 
