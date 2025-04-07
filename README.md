@@ -2,7 +2,8 @@
 
 A React-based web application for academic research on antivirus evasion techniques. This tool demonstrates executable encryption with AES/RSA and PDF exploit generation for educational purposes.
 
-![Helius Crypter Screenshot](screenshot.png)
+<img width="1779" alt="Screenshot 2025-04-07 at 13 06 01" src="https://github.com/user-attachments/assets/a7c3a6dc-e194-4522-b8a0-18e237e21bdc" />
+
 
 ## 🚨 Educational Purpose Only
 
@@ -67,7 +68,7 @@ This tool is designed exclusively for academic research, educational purposes, a
 
 ## 👨‍💻 Author
 
-- Student Name - Student ID
+- Telegram: @helius0x
 
 ## 📄 License
 
