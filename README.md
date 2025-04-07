@@ -27,6 +27,12 @@ This tool is designed exclusively for academic research, educational purposes, a
 - Framer Motion for animations
 - React Router for navigation
 
+<img width="1074" alt="Screenshot 2025-04-07 at 13 07 29" src="https://github.com/user-attachments/assets/ec3e08a5-e530-4d34-861e-1d0301c3b10c" />
+
+
+<img width="1076" alt="Screenshot 2025-04-07 at 13 08 04" src="https://github.com/user-attachments/assets/01b4d389-f584-4f3e-b8af-0d6dcc2b913c" />
+
+
 ## 📋 Prerequisites
 
 - Node.js 18.x or later
