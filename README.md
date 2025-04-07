@@ -2,7 +2,7 @@
 
 A React-based web application for academic research on antivirus evasion techniques. This tool demonstrates executable encryption with AES/RSA and PDF exploit generation for educational purposes.
 
-<img width="1779" alt="Screenshot 2025-04-07 at 13 06 01" src="https://github.com/user-attachments/assets/a7c3a6dc-e194-4522-b8a0-18e237e21bdc" />
+
 
 
 ## 🚨 Educational Purpose Only
@@ -19,8 +19,9 @@ This tool is designed exclusively for academic research, educational purposes, a
 - **Antivirus Bypass**: Advanced obfuscation techniques to bypass VirusTotal and other antivirus solutions
 - **Modern UI**: Dark mode interface with neon accents for a cybersecurity feel
 
+![abc](https://github.com/user-attachments/assets/7ad9d2fc-db64-4026-b2df-188f12ade19b)
 
-<img width="1800" alt="Screenshot 2025-04-07 at 13 10 26" src="https://github.com/user-attachments/assets/e56fd201-dc9a-4ed9-9db6-03924091d4d4" />
+
 
 
 ## 🛠️ Technologies Used
@@ -31,10 +32,7 @@ This tool is designed exclusively for academic research, educational purposes, a
 - Framer Motion for animations
 - React Router for navigation
 
-<img width="1074" alt="Screenshot 2025-04-07 at 13 07 29" src="https://github.com/user-attachments/assets/ec3e08a5-e530-4d34-861e-1d0301c3b10c" />
 
-
-<img width="1076" alt="Screenshot 2025-04-07 at 13 08 04" src="https://github.com/user-attachments/assets/01b4d389-f584-4f3e-b8af-0d6dcc2b913c" />
 
 
 ## 📋 Prerequisites
