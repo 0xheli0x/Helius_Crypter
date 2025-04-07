@@ -1,5 +1,5 @@
 # Helius Crypter - Malware Encryption Tool
-<center>https://helius-crypter.com/</center>
+
 
 A React-based web application for academic research on antivirus evasion techniques. This tool demonstrates executable encryption with AES/RSA and PDF exploit generation for educational purposes.
 
