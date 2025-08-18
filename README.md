@@ -13,7 +13,7 @@ A React-based web application for academic research on antivirus evasion techniq
 This tool is designed exclusively for academic research, educational purposes, and authorized security testing. Usage of this software for unauthorized penetration of computer systems, distribution of malware, or any malicious activity is strictly prohibited and may violate local, state, and federal laws.
 
 ## Tutorial Video
-[https://www.youtube.com/watch?v=PXtiHd2UbGQ](https://www.youtube.com/watch?v=PXtiHd2UbGQ)
+[https://t.me/helisupport](https://t.me/helisupport)
 
 
 ## 🔧 Features
